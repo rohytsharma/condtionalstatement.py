@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="64d5fb55-f330-49b6-a4fc-8950d98b1c73" name="Changes" comment="" />
+    <list default="true" id="64d5fb55-f330-49b6-a4fc-8950d98b1c73" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstconditoinal.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstconditoinal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question1.py" beforeDir="false" afterPath="$PROJECT_DIR$/question1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question10.py" beforeDir="false" afterPath="$PROJECT_DIR$/question10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question11.py" beforeDir="false" afterPath="$PROJECT_DIR$/question11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question12.py" beforeDir="false" afterPath="$PROJECT_DIR$/question12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question2.py" beforeDir="false" afterPath="$PROJECT_DIR$/question2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question3.py" beforeDir="false" afterPath="$PROJECT_DIR$/question3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question4.py" beforeDir="false" afterPath="$PROJECT_DIR$/question4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question5.py" beforeDir="false" afterPath="$PROJECT_DIR$/question5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question7.py" beforeDir="false" afterPath="$PROJECT_DIR$/question7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question8.py" beforeDir="false" afterPath="$PROJECT_DIR$/question8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question9.py" beforeDir="false" afterPath="$PROJECT_DIR$/question9.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,21 +28,51 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "rohytsharma"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rohytsharma/programming-and-algorithms.git",
+    "accountId": "9d3371cc-20b9-4f73-98f4-d63989f0ba82"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
   <component name="ProjectId" id="2qHYgvARWfduyXArPY2PZdnxIVQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.firstconditoinal.executor": "Run",
+    "Python.question1.executor": "Run",
+    "Python.question10.executor": "Run",
+    "Python.question11.executor": "Run",
+    "Python.question12.executor": "Run",
+    "Python.question2.executor": "Run",
+    "Python.question4.executor": "Run",
+    "Python.question5.executor": "Run",
+    "Python.question6.executor": "Run",
+    "Python.question8.executor": "Run",
+    "Python.question9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
